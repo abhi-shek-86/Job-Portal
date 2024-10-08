@@ -36,5 +36,5 @@ We welcome contributions! If you'd like to contribute, feel free to fork this re
 
 If you have any questions, suggestions, or feedback, feel free to reach out!
 
-- **LinkedIn**: [Your LinkedIn Profile](https://github.com/abhi-shek-86)
+- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/abhi1325/)
 - **Email**: rapoabhi86@gmail.com
